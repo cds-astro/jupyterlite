@@ -37,6 +37,6 @@ plotly>=5,<6
 bqplot
 
 # CDS libraries
-ipyaladin
+ipyaladin==0.2.3
 astropy==5.2
 astroquery==0.4.6
