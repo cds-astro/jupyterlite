@@ -1,6 +1,6 @@
 # Core modules (mandatory)
 jupyterlite-core >=0.1.2,<0.2.0
-jupyterlab~=3.5.1
+jupyterlab>=4.0.0
 
 # Python kernel (optional)
 jupyterlite-pyodide-kernel==0.1.0
@@ -37,6 +37,6 @@ plotly>=5,<6
 bqplot
 
 # CDS libraries
-ipyaladin==0.2.3
+ipyaladin==0.2.4
 astropy==5.2
 astroquery==0.4.6
