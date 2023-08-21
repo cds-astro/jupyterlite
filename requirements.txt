@@ -12,17 +12,13 @@ jupyterlite-javascript-kernel==0.1.0
 jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
 
-# JupyterLab: Fasta file renderer (optional)
-jupyterlab-fasta>=3,<4
-# JupyterLab: guided tour (optional)
-jupyterlab-tour
 # JupyterLab: dark theme
 jupyterlab-night
 # JupyterLab: Miami nights theme (optional)
 jupyterlab_miami_nights
 
 # Python: ipywidget library for Jupyter notebooks (optional)
-ipywidgets>=8.0.0,<9
+ipywidgets>=8.1.0,<9
 # Python: ipyevents library for Jupyter notebooks (optional)
 ipyevents>=2.0.1
 # Python: interative Matplotlib library for Jupyter notebooks (optional)
