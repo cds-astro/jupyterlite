@@ -27,7 +27,11 @@ ipyevents>=2.0.1
 # Python: plotting libraries (optional)
 plotly>=5,<6
 
-# CDS/astro libraries
+# For queries
+ssl
+pyodide-http>=0.2.1
+
+# CDS and/or astro libraries
 ipyaladin
 astropy
-astroquery
+astroquery @ https://files.pythonhosted.org/packages/c3/c8/d74794dff5c6802994d3dfe506d691d9e0ff3e6b2f34df577899685b2617/astroquery-0.4.7.dev9008-py3-none-any.whl
