@@ -23,6 +23,8 @@ jupyterlab_miami_nights
 ipywidgets>=8.1.1,<9
 # Python: ipyevents library for Jupyter notebooks (optional)
 ipyevents>=2.0.1
+# Sidecar
+sidecar>=0.7.0
 
 # Python: plotting libraries (optional)
 plotly>=5,<6
